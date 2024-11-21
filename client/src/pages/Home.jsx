@@ -26,8 +26,8 @@ const Home = () => {
 
           <motion.div className='home-content' {...headContainerAnimation}>
             <motion.div {...headTextAnimation}>
-              <h1 className='head-text' style={{ fontSize: '5rem', fontWeight: 'bold' }}>
-                LET'S <br className='xl:block hidden'/> DO IT.
+              <h1 className='head-text' style={{ fontSize: '3rem', fontWeight: 'bold' }}>
+                LET'S DO IT.
               </h1>
             </motion.div>
             <motion.div {...headContentAnimation} className="flex flex-col gap-5">
