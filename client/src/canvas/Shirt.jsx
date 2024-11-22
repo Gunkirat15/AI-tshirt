@@ -20,7 +20,7 @@ const Shirt = () => {
         fullTexture.anisotropy = 16;
     }
 
-    useFrame((state, delta) => easing.dampC(materials.lambert1.blendColor, snap.color, 0.25, delta));
+    useFrame((state, delta) => easing.dampC(materials.lambert1.color, snap.color, 0.25, delta));
 
     const stateString = JSON.stringify(snap);
 
