@@ -39,7 +39,7 @@ html {
   @apply glassmorphism w-16 border-[2px] rounded-lg flex flex-col justify-center items-center ml-1 py-4 gap-4;
 }
 
-.filtertabs-container {
+.filterabs-container {
   @apply absolute z-20 bottom-5 left-0 right-0 w-full flex justify-center items-center flex-wrap gap-4;
 }
 
