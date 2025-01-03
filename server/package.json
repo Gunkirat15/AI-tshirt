@@ -18,6 +18,5 @@
     "mongoose": "^8.9.3",
     "nodemon": "^3.1.9",
     "openai": "^4.77.0"
-  },
-  "description": ""
+  }
 }
