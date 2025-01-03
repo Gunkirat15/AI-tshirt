@@ -2,7 +2,7 @@ T-Shirt Customizer Website
 ==========================
 
 This project is an interactive web application that enables users to design custom t-shirts with ease and creativity. The application leverages modern technologies and AI to provide a seamless and engaging user experience.
-Test it here -- https://ai-tshirt-252r.vercel.app (let me knoe if you have any suggestions to make it better or if you encounter any error..!)
+Test it here -- https://ai-tshirt-252r.vercel.app (let me know if you have any suggestions to make it better or if you encounter any error..!)
 
 Features
 --------
